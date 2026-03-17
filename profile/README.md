@@ -1,9 +1,11 @@
 <div align="center">
   <img src="logo.png" alt="Logo" width="100"/>
-  <h1>TourGuideAI</h1>
+  <h1><a href="https://tourguideai-website.vercel.app/">TourGuideAI</a></h1>
 </div>
 
+<p align="center">
 Your personal tour planner, powered by AI. Create smart, personalized walking tours for any city in seconds with real places, insider tips, and GPS navigation — all from your pocket.
+</p>
 
 ## App Preview
 
