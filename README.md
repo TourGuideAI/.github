@@ -1,4 +1,7 @@
-# TourGuideAI
+<div align="center">
+  <img src="logo.png" alt="Logo" width="100"/>
+  <h1>TourGuideAI</h1>
+</div>
 
 Your personal tour planner, powered by AI. Create smart, personalized walking tours for any city in seconds with real places, insider tips, and GPS navigation — all from your pocket.
 
