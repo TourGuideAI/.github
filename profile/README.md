@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.png" alt="Logo" width="100"/>
-  <h1><a href="https://tourguideai-website.vercel.app/">TourGuideAI</a></h1>
+  <h1><a href="http://tourguide-ai.com/">TourGuideAI</a></h1>
 </div>
 
 <p align="center">
